@@ -1,1 +1,1 @@
-# titanic_spaceship_random_forestforests
+This analysis was made for kaggle competition: https://www.kaggle.com/competitions/spaceship-titanic. The goal is to predict which passengers on the spaceship will get transported to alternate dimension. Random Forest method was used which led to 76% accuracy. 
